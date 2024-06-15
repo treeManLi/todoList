@@ -25,7 +25,7 @@ npm run build
 ```sh
 npm run lint
 ```
-##由于有element的日历组件，可能需要安装：
+element的日历组件，可能需要安装，应该不用。
 npm install element-plus
 
 master分支
